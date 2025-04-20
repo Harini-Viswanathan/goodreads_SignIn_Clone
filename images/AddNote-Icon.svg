@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="17px" viewBox="0 0 14 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Note Icon Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Owner-View" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="5_RN_OwnerView-FTUX-3" sketch:type="MSArtboardGroup" transform="translate(-290.000000, -468.000000)" stroke="#979797">
+            <g id="Notes-1-Visible" sketch:type="MSLayerGroup" transform="translate(224.000000, 325.000000)">
+                <g id="3-copy" transform="translate(13.000000, 51.000000)" sketch:type="MSShapeGroup">
+                    <g id="3">
+                        <g id="Note-Icon-Copy" transform="translate(54.000000, 93.000000)">
+                            <path d="M0,0.0512552445 L9.2240334e-16,14.9447339 L12.1268572,14.9447339 L12.1268572,4.84592987 L8.07460056,0.0129344375 L0,0.0512552445 Z" id="Path-2848"></path>
+                            <path d="M8.2145775,1 L8.2145775,4.8190869 L11.6369048,4.8190869 L8.2145775,1 Z" id="Path-2849" fill="#979797"></path>
+                            <path d="M2.65699098,5.5 L9.15651257,5.5" id="Line" stroke-linecap="square"></path>
+                            <path d="M2.65699098,8.5 L9.15651257,8.5" id="Line-Copy-24" stroke-linecap="square"></path>
+                            <path d="M2.65699098,11.5 L9.15651257,11.5" id="Line-Copy-25" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

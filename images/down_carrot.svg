@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="6px" width="9px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9 6">
+<g id="Archive" fill-rule="evenodd" fill="none">
+<g id="Specs" transform="translate(-842 -833)">
+<image id="Bitmap" y="64" x="85" height="907" width="1.27e3"/>
+<rect height="745" width="751" y="275" x="226" fill="#fff"/>
+<g stroke="#979797" stroke-linecap="square" transform="translate(843 834)">
+<path id="Line" d="m0.286 0.286l3.42 3.42"/>
+<path id="Line" transform="translate(5.43 2) scale(-1 1) translate(-5.43 -2)" d="m3.71 0.286l3.43 3.42"/>
+</g>
+<rect stroke-opacity=".247" height="955" width="1.27e3" stroke="#4A4A4A" y="64" x="85"/>
+</g>
+</g>
+</svg>
