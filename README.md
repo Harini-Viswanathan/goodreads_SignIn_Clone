@@ -28,7 +28,7 @@ Open the index.html file in your browser to see the page.
 
 Hosting on GitHub Pages
 This project is hosted live on GitHub Pages. You can visit the live site here:
-Goodreads Sign-In Clone
+https://harini-viswanathan.github.io/goodreads_SignIn_Clone/
 
 How It Works
 Mood-based Book Suggestions:
